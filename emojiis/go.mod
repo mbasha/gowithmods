@@ -1,3 +1,3 @@
-module github.com/mbasha/gowithmods
+module github.com/mbasha/emojiis
 
 go 1.24.2
